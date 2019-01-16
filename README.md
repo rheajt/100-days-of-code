@@ -22,4 +22,10 @@ Got stuck working with `clasp` but I think tomorrow I'll be able to dive into Ty
 
 ### Day 1: January 16, 2019
 
-...
+**Today's Progress:** I wrote some types, interfaces, and enums in the code.ts file of my project. I started to add some functionality that allows the doGet and doPost triggers to handle requests from my frontend. Now the frontend can post data from the survey form. It can also handle a get request to get data from the different sheets in the spreadsheet.
+
+**Tomorrow!** Keep working with types, interfaces, enums. Break them into their own definitions file to make things more readable. What are generics in Typescript? Find out!
+
+**YouTube Link**: I failed to record! This is a signal that I need to understand a little bit more about the recording aspect.
+
+### Day 2: January 17, 2019
