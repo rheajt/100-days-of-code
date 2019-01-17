@@ -29,3 +29,7 @@ Got stuck working with `clasp` but I think tomorrow I'll be able to dive into Ty
 **YouTube Link**: I failed to record! This is a signal that I need to understand a little bit more about the recording aspect.
 
 ### Day 2: January 17, 2019
+
+**Today's Progress:** I got the tribute page loading data from the form.
+
+**Tomorrow!** Keep working with types, interfaces, enums. Break them into their own definitions file to make things more readable. What are generics in Typescript? Find out!
