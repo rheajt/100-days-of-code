@@ -33,3 +33,9 @@ Got stuck working with `clasp` but I think tomorrow I'll be able to dive into Ty
 **Today's Progress:** I got the tribute page loading data from the form.
 
 **Tomorrow!** Keep working with types, interfaces, enums. Break them into their own definitions file to make things more readable. What are generics in Typescript? Find out!
+
+### Day 3: January 18, 2019
+
+**Today's Progress:** Started to break some of the functionality for apps script into class files. **Major** revelation was that the file **CANNOT** have the same name that the class itself has. This caused a headscratcher for me.
+
+**Tomorrow:** Break the rest of the pages into their own classes that extend from a base class. Better understanding of types, interfaces, etc.
