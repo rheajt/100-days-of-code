@@ -39,3 +39,9 @@ Got stuck working with `clasp` but I think tomorrow I'll be able to dive into Ty
 **Today's Progress:** Started to break some of the functionality for apps script into class files. **Major** revelation was that the file **CANNOT** have the same name that the class itself has. This caused a headscratcher for me.
 
 **Tomorrow:** Break the rest of the pages into their own classes that extend from a base class. Better understanding of types, interfaces, etc.
+
+### Day 4: January 19, 2019
+
+**Today's Progress:** Changed the front end projects page to reflect the name of the page with each route change
+
+**Tomorrow:** Break the rest of the pages into their own classes that extend from a base class. Better understanding of types, interfaces, etc.
