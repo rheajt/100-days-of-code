@@ -39,3 +39,31 @@ Got stuck working with `clasp` but I think tomorrow I'll be able to dive into Ty
 **Today's Progress:** Started to break some of the functionality for apps script into class files. **Major** revelation was that the file **CANNOT** have the same name that the class itself has. This caused a headscratcher for me.
 
 **Tomorrow:** Break the rest of the pages into their own classes that extend from a base class. Better understanding of types, interfaces, etc.
+
+### Day 4: January 19, 2019
+
+**Today's Progress:** Refactored the next.js front end.
+
+**Tomorrow:** Continue refactoring
+
+### Day 5: January 20, 2019
+
+**Today's Progress:** Continued refactoring the next.js front end.
+
+**Tomorrow:** Pick back up on the the streaming #100DaysOfAppsScript
+
+### Day 6: January 21, 2019
+
+**Today's Progress:** I had to debug the export issue with `clasp`. The correct way to do it involves the deployment id.
+
+`clasp deploy -i <<deploymentId>>`
+
+This puts the live version out there on the chosen deployment. It also allows you to have two different deployments active at once.
+
+**Tomorrow:** Refactor with your new found powers!
+
+### Day 7: January 22, 2019
+
+**Today's Progress:** I fixed the clasp deploy issues and refactored the `Sheet.service.ts` file
+
+**Tomorrow:** Finish the calculator page
